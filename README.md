@@ -17,6 +17,7 @@ python adivinha.py
 Agostinho Muhongo Feliciano
 📧 agostinhomuhongofeliciano@gmail.com
 🔗 LinkedIn
+www.linkedin.com/in/agostinho-muhongo-feliciano-amuhongo
 
 ✅ License
 This project is under the MIT License.
